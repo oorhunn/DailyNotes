@@ -23,7 +23,7 @@
 
 ~~·         Virtual functions and abstract classes~~
 
-·         SOLID Principles
+~~·         SOLID Principles~~
 
 **Week 9-10: Advanced Concepts and Further Application** 
 
@@ -31,7 +31,7 @@
 
 ~~·         File streams: reading from and writing to files~~ 
 
-·         Exception handling
+~~·         Exception handling~~
 
 2.      **Week 10: Templates and Generic Programming (4 hours)**
 

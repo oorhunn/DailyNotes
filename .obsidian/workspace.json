@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b0da9c1db8d6da1f",
+        "id": "98245d670976fe76",
         "type": "tabs",
         "children": [
           {
-            "id": "08e09540f3ae42f3",
+            "id": "d3cc12f05fd2fbc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.sh/C++/Merged Notes.md",
+                "file": "Roadmap.sh/C++/Land.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40adb28b16856217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Progression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293
   },
   "right": {
     "id": "416576bfc45c1fdc",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.sh/C++/Merged Notes.md",
+                "file": "My Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.sh/C++/Merged Notes.md",
+                "file": "My Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.sh/C++/Merged Notes.md"
+                "file": "My Progression.md"
               }
             }
           }
@@ -146,21 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08e09540f3ae42f3",
+  "active": "40adb28b16856217",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Roadmap.sh/C++/Merged Notes.md",
-    "Roadmap.sh/C++/Topics/Data Types.md",
-    "Full Program.md",
-    "Roadmap.sh/C++/Standards.md",
+    "Roadmap.sh/C++/Topics/Solid Principles.md",
     "Roadmap.sh/C++/Land.md",
+    "Roadmap.sh/C++/Topics/Build Systems in C++.md",
+    "Roadmap.sh/C++/Topics/Multithreading in C++.md",
+    "Roadmap.sh/C++/Topics/C++ Idioms.md",
+    "Roadmap.sh/C++/Topics/C++ Templates.md",
+    "Roadmap.sh/C++/Topics/Partial Template Specialization.md",
+    "Roadmap.sh/C++/Topics/Full Template Specialization.md",
+    "Roadmap.sh/C++/Topics/Dynamic Typing in C++.md",
+    "Roadmap.sh/C++/Merged Notes.md",
+    "Roadmap.sh/C++/Topics/Iterators.md",
+    "Roadmap.sh/C++/Topics/STL Algorithms.md",
+    "Roadmap.sh/C++/Topics/Data Types.md",
+    "Roadmap.sh/C++/Topics/Compilers.md",
+    "Roadmap.sh/C++/Topics/C++ Containers.md",
+    "Roadmap.sh/C++/Topics/Object Lifetime in C++.md",
+    "Roadmap.sh/C++/Topics/Object-Oriented Programming in C++.md",
+    "Roadmap.sh/C++/Topics/Dynamic Polymorphism.md",
+    "Roadmap.sh/C++/Topics/Static Polymorphism.md",
+    "Roadmap.sh/C++/Topics/Diamond Inheritance.md",
+    "Roadmap.sh/C++/Topics/Memory Model in C++.md",
+    "Full Program.md",
+    "My Progression.md",
+    "Roadmap.sh/C++/Standards.md",
     "Roadmap.sh/C++/Topics",
     "Roadmap.sh/C++",
     "Roadmap.sh",
-    "My Progression.md",
     "Untitled 1.md",
     "RoadMap.sh/C++.md",
-    "RoadMap.sh/Standards.md",
     "RoadMap.sh"
   ]
 }

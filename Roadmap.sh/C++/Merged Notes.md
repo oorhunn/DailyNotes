@@ -662,5 +662,5 @@ std::cout << std::any_cast<int>(any_value)
 ```
 
 `any` keyword supports type-checking at runtime and does not require explicit casting when retrieving the stored value. It provides a safer and more convenient alternative to using `void*` , as it avoids the need for manual casting and allows better type safety.
-### Pointer to Implementation(Plmpl)
+
 
