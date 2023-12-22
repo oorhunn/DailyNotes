@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Progression.md",
+                "file": "EdaProgress/SQL Leet Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7330adb39a916d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EdaProgress/Python Leet Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1eb38e123269a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EdaProgress/Eda Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a63f82c3eca32de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.sh/C++/Topics/Data Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Progression.md",
+                "file": "EdaProgress/Eda Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Progression.md",
+                "file": "EdaProgress/Eda Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Progression.md"
+                "file": "EdaProgress/Eda Progress.md"
               }
             }
           }
@@ -159,10 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40adb28b16856217",
+  "active": "c1eb38e123269a23",
   "lastOpenFiles": [
-    "Roadmap.sh/C++/Topics/Solid Principles.md",
+    "EdaProgress/SQL Leet Code.md",
+    "EdaProgress/Eda Progress.md",
+    "EdaProgress/Python Leet Code.md",
+    "Untitled",
+    "EdaProgress",
+    "My Progression.md",
+    "Roadmap.sh/C++/Topics/Data Types.md",
     "Roadmap.sh/C++/Land.md",
+    "Data-Structures and Algorithms C++/Land.md",
+    "Data-Structures and Algorithms C++",
+    "Roadmap.sh/C++/Topics/Solid Principles.md",
     "Roadmap.sh/C++/Topics/Build Systems in C++.md",
     "Roadmap.sh/C++/Topics/Multithreading in C++.md",
     "Roadmap.sh/C++/Topics/C++ Idioms.md",
@@ -173,7 +218,6 @@
     "Roadmap.sh/C++/Merged Notes.md",
     "Roadmap.sh/C++/Topics/Iterators.md",
     "Roadmap.sh/C++/Topics/STL Algorithms.md",
-    "Roadmap.sh/C++/Topics/Data Types.md",
     "Roadmap.sh/C++/Topics/Compilers.md",
     "Roadmap.sh/C++/Topics/C++ Containers.md",
     "Roadmap.sh/C++/Topics/Object Lifetime in C++.md",
@@ -182,14 +226,9 @@
     "Roadmap.sh/C++/Topics/Static Polymorphism.md",
     "Roadmap.sh/C++/Topics/Diamond Inheritance.md",
     "Roadmap.sh/C++/Topics/Memory Model in C++.md",
-    "Full Program.md",
-    "My Progression.md",
-    "Roadmap.sh/C++/Standards.md",
     "Roadmap.sh/C++/Topics",
     "Roadmap.sh/C++",
     "Roadmap.sh",
-    "Untitled 1.md",
-    "RoadMap.sh/C++.md",
     "RoadMap.sh"
   ]
 }
