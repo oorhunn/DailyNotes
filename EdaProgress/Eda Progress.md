@@ -1,3 +1,16 @@
+#### 12-26-2023
+- Start python intro on datacamp. Clear 2 sections.
+- Clear 1 section in sql intermediate
+- Leet Code Questions:
+	- Python:
+		- [1. Two Sum](https://leetcode.com/problems/two-sum)
+		- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
+		- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+		- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+	- SQL:
+		- [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)
+		- [577. Employee Bonus](https://leetcode.com/problems/employee-bonus)
+		- [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee)
 #### 12-23-2023
 ~~- Joining data sections 2 done 3 half done~~
 - Joining data 3 continue, finish 4

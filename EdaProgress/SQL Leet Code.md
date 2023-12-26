@@ -1,17 +1,21 @@
 Done:
 [ 175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables)
-Easy:
-
 
 [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)
 
 [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails)
 
 [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)
+Easy:
+
+
+
 
 [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)
 
 [197. Rising Temperature](https://leetcode.com/problems/rising-temperature)
+
+
 
 [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)
 
