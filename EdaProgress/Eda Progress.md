@@ -1,7 +1,7 @@
 #### 12-26-2023
 ~~- Start python intro on datacamp. Clear 2 sections.~~
 
-~~- Clear 1 section in Data Manipulation in SQL~~
+~~- Clear 1st section in Data Manipulation in SQL~~
 - Leet Code Questions:
 	- Python:
 		- [1. Two Sum](https://leetcode.com/problems/two-sum)
