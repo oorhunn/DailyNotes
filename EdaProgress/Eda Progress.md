@@ -3,6 +3,7 @@
 - Joining data 3 continue, finish 4
 - Start python intro clear 2 sections.
 - Leet code questions:
+- 
 	~~- [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)~~
 
 	~~- [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails)~~
