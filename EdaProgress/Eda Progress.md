@@ -1,5 +1,6 @@
 #### 12-26-2023
 ~~- Start python intro on datacamp. Clear 2 sections.~~
+
 ~~- Clear 1 section in sql intermediate~~
 - Leet Code Questions:
 	- Python:
